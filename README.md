@@ -22,4 +22,19 @@ Python 3.12+
 Node.js 18+
 
 #效果呈现
-<img width="1548" height="977" alt="ada952f3-edc7-4ef5-9497-6aab66b401c3" src="https://github.com/user-attachments/assets/099a85dd-5989-4ed6-98bd-838102d7b76e" />
+<img width="553" height="298" alt="图片" src="https://github.com/user-attachments/assets/6f05deec-2b58-423d-af7b-8e9cce145a09" />
+<img width="553" height="298" alt="图片" src="https://github.com/user-attachments/assets/6eeefbe2-7800-41e8-8be2-74d1b4606e6b" />
+<img width="553" height="274" alt="图片" src="https://github.com/user-attachments/assets/0bdbf29a-15db-4e89-9e14-8475f2847e14" />
+<img width="553" height="274" alt="图片" src="https://github.com/user-attachments/assets/7de63c62-9fc1-4382-87a1-8797d8a48934" />
+<img width="553" height="349" alt="图片" src="https://github.com/user-attachments/assets/8120c3d6-4c23-4e02-96ac-f32442ed8142" />
+
+#导出样例
+<img width="2560" height="4814" alt="itinerary-广州" src="https://github.com/user-attachments/assets/3368d285-7809-4b06-ae9d-4dadff890863" />
+
+
+
+
+
+
+
+
